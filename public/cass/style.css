@@ -1,0 +1,176 @@
+
+.header{
+    background-color: blue;
+}
+i.fab{
+   padding: 5px 5px 0px 5px;
+   color: white;
+   margin-top: 5px;
+}
+p.text-center.styling{
+    color: #fff;
+    margin: 10px 0 0 0;
+}
+a.btn.btn-style{
+    border-radius: 0;
+    font-size: 12px;
+    padding: 6px 15px 6px 15px;
+    margin: 8px -15px 0 15px;
+    border: 1px solid gray;
+    background-color: #fff;
+    color: #427900;
+}
+/* ++++++++++++++++++ finishing of header 1 ++++++++++++ */
+
+/* ++++++++++++++++++ start of header 2 ++++++++++++ */
+
+div#collapsibleNavbar{
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0 0px 0 95px;
+    justify-content: space-around;
+    justify-content: space-between;
+}
+a.nav-link{
+    color: black;
+    padding: 5px 20px 6px 20px !important;
+    border-radius: 20px;
+}
+a.nav-link.active{
+    color: #fff;
+    background-color: #316DC3;
+    padding: 5px 20px 6px 20px !important;
+    border-radius: 20px;
+}
+.a.nav-link :hover{
+    color: white;
+    background-color: blue;
+    border-radius: 20px;
+    padding: 5px 20px 6px 20px !important;
+}
+.dropdown-item:hover{
+    color: #fff !important;
+    text-decoration: none;
+    background-color: #316dc3 !important;
+} 
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+/* +++++++++++++++++++++++ finishing of header 2++++++++++++++++++++++++++ */
+
+/* +++++++++++++++++++++++ introduction ++++++++++++++++++++++ */
+.Intro.container-fluid.bg-light
+{
+    justify-content: space-around;
+    height: 700px;
+}
+.intro{
+    color: #838181;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-around;
+}
+
+/* +++++++++++++++++++++++ start of more description of saylani +++++++++++++++++++++ */
+
+section.counter{
+    padding: 40px 0 100px 0;
+    background-color: #2754e9;
+}
+.text-white{
+    margin: 10px 0 15px 0;
+    color: #fff!important;
+}
+h5.text-white{
+    font-size: 15px;
+}
+.row.margin_set{
+    margin: 40px 0 0 0;
+}
+
+/* ++++++++++++++++++++++++++ start of counting +++++++++++++++++++ */
+
+.textcenter {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+}
+
+/* ++++++++++++++++++++++ WE DOING+++++++++++++++++++++++++++++++ */
+
+.container.counter{
+    padding: 75px 0 0 10px;
+}
+.text-center.bg-white{
+    padding: 30px 0px 40px 0;
+    margin: 30px 0 0px 0;
+}
+section.container-fluid.bg-light{
+    padding: 0 0 85px 0;
+    background-color: #ABA4A4;
+}
+/* ++++++++++++++++++++++ Up coming events +++++++++++++++++++++++++++++++ */
+.text-uppercase{
+    font-size: 15px;
+}
+.left.media.bg-silver-light{
+    padding: 30px 0 30px 40px;
+    background-color: #c0c0c066;
+    margin: 25px 0 0 0;
+    width: 350px;
+}
+img.img-heading-gap{
+    margin: 0 25px 0 0;
+}
+
+/* ++++++++++++++++++ Image gallery +++++++++++++++++++++++ */
+
+
+section.img-gallery
+{
+    padding-top: 50px;
+}
+/* +++++++++++++++++ footer ++++++++++++++++ */
+
+ul.footer_list_contacts>li>i.fa{
+    color: #427900;
+    margin: 5px 10px 0px 15px;
+}
+ul.footer_list_contacts li{
+    color: #848588;
+    font-size: 12px;
+    list-style: none;
+    margin: 7px 0 0px 0;
+}
+ul.footer_list_contacts{
+    padding: 0px;
+}
+ul.icons-style>li{
+    display: contents;
+    list-style: none;   
+}
+ul.icons-style>li>a>i.fa{
+    color: white;
+    background-color: #316DC3;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+    margin: 0 10px 0 0;
+}
+ul.icons-style{
+    padding: 0;
+}
+
+/* ++++++++++++++ copy-right ++++++++++++++++++++++++++ */
+
+.container-fluid.copy-right, .align{
+    color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-bottom: 15px;
+}
